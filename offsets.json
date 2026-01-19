@@ -1,5 +1,5 @@
 {
-  "ground": {
+  "wall": {
     "base": "0x01F14CD0",
     "vel_max": [
       "0x430",
